@@ -1,12 +1,11 @@
 # How To Run:
 * cmd 1 : g++ code.cpp
-
 * cmd 2 : ./a.out
 	* Terminal would ask for Pressing 0 or 1:
     	* 0 => For Extendible Hashing
      	* 1 => For Data Generation
 
-# Before Running the code you may have to change the following varibles as per your requirements
+### Before Running the code you may have to change the following varibles as per your requirements
 * Line 4: SEC_MEM_SIZE => Memory Size of Secondary Memory (Default = 1000000)
 * Line 5: BITS => Bits representation of a number to extract hash key (Default = 16)
 * Line 6: MM_ENTRY => Number of Directory Entries (Default = 1024)
